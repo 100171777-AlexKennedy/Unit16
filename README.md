@@ -1,14 +1,13 @@
-# C# Console Applications App01 to App05
+# C# Unit 16 Object Oriented Programming App01 to App05
 | Author | Details |
 | ---- | ---- |
-**Name**: | Student Name  |
-**Student ID**: | 12345678 |
-**Course:** | Computing |
-**Module**: | CO453     |
+**Name**: | Alex Kennedy  |
+**Student ID**: | 100171777 |
+**Course:** | BTEC Extended Diploma in computing |
+**Module**: | Unit 16     |
 **Started**: | January 2021 |    
 
 1. App01: Distance Converter
 2. App02: BMI Calculator
 3. App03: Students Marks
-4. App04: Social Network
-5. App05: R-P-S Game
+
