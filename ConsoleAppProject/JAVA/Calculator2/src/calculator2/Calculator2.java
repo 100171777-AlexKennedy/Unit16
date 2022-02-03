@@ -4,17 +4,10 @@
  */
 package calculator2;
 
-/**
- *
- * @author 100171777
- */
-public class Calculator2 {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
+public class Calculator2
+{
+   String Name;
+   
+   
     
-}
+}  
