@@ -6,7 +6,7 @@ package calculator2;
 
 public class Calculator2
 {
-   String Name;
+   private String Name;
 
    
    public int add(int x, int y) {
@@ -34,4 +34,18 @@ public class Calculator2
    public int modulus(int x, int y) {
        return x % y; 
    }
+   
+
+   public void setName(String name)
+   {
+       this.Name = name;
+   }
+
+   public String getName()
+   {
+       return Name;
+   }
+
+
 }
+
